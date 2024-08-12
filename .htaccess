@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "Lukket for testing" 
+AuthUserFile .htpasswd 
+require valid-user
